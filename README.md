@@ -119,5 +119,5 @@ please download “NSObject+MKSwizzling.m” and add to your project.
 
 # Summary
 
->In general, understanding the runtime mechanism does not help us to better understand the underlying operation, but also provides us with new ideas for solving problems.
+> Generally speaking, understanding the runtime mechanism can not only help us better understand the underlying operations, but also provide us with a new way to solve the problem.
 
